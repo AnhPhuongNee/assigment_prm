@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assigment_pcm</string>
+    <string name="map_key">AIzaSyB7m0XQO0LBTft9bPAoWpr4mI3i4i51MYw</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

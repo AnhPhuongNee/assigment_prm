@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409764580170",
+    "project_id": "pcmmanager-c03a0",
+    "storage_bucket": "pcmmanager-c03a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409764580170:android:3f0f48b16d17cdda658fb3",
+        "android_client_info": {
+          "package_name": "com.example.assigment_pcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409764580170-fgkbrukgvqn5241kn87h67h3c0ab9r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkRkLubNmY39cHVjF2AJ-yO8Onqb0tIM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409764580170-fgkbrukgvqn5241kn87h67h3c0ab9r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
